@@ -1,3 +1,2 @@
-THIS IS MY MAIN BRANCH CODE
-Hello Git
-Feature code by Pratik
+This is final merged code by Pratik
+
